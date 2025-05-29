@@ -8,7 +8,7 @@ I'm also diving into Django, React Native, and AI-based solutions for real-world
 
 🚀 Constantly learning about AI, automation, and system design
 
-📈 Currently working on prediction models for real estate, cars, and financial markets at Appchande.ir
+📈 Currently working on prediction models for real estate, cars, and financial markets at Appchande.ir 
 
 🎮 Co-creator of StudioGarnet.ir – where we bring games and interactive experiences to life
 

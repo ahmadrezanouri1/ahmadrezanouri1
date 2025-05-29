@@ -1,5 +1,22 @@
 # 💫 About Me:
-I'm a frontend developer who loves nodejs and javascript and i love nextjs
+👋 About Me
+Hi, I'm Ahmadreza, a passionate Software Engineer with 3+ years of experience in building modern web applications.
+My focus is on JavaScript, TypeScript, and modern frameworks like React, Next.js, and Node.js.
+I'm also diving into Django, React Native, and AI-based solutions for real-world problems.
+
+🧠 Love building scalable, clean, and user-focused products
+
+🚀 Constantly learning about AI, automation, and system design
+
+📈 Currently working on prediction models for real estate, cars, and financial markets at Appchande.ir
+
+🎮 Co-creator of StudioGarnet.ir – where we bring games and interactive experiences to life
+
+💡 Believer in open-source and clean architecture
+
+⚡ Hobbies: Game dev, photography, and exploring tech startups
+
+Let’s build something impactful together.
 
 
 ## 🌐 Socials:
